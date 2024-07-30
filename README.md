@@ -22,7 +22,7 @@ This repository contains three projects:
 * Installation
     * Clone the repository:
     *     git clone https://github.com/KaTeetuch/Health-Plaza-Test.git
-    *     cd Health-Plaza-Test
+    *     cd Health-Plaza-Exam
     *     cd React-natve-developer-Exam
     * install dependencies:
     *     npm install
@@ -46,7 +46,7 @@ This repository contains three projects:
 * Installation
     * Clone the repository:
     *     git clone https://github.com/KaTeetuch/Health-Plaza-Test.git
-    *     cd Health-Plaza-Test
+    *     cd Health-Plaza-Exam
     *     cd Backend-Developer-Exam
     * install dependencies:
     *     npm install
@@ -71,7 +71,7 @@ This repository contains three projects:
 * Installation
     * Clone the repository:
     *     git clone https://github.com/KaTeetuch/Health-Plaza-Test.git
-    *     cd Health-Plaza-Test
+    *     cd Health-Plaza-Exam
     *     cd Technical-Test
 * Usage
     * run this comand
