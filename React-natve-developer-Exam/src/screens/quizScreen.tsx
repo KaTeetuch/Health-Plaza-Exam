@@ -82,7 +82,7 @@ const QuizScreen: React.FC = () => {
         <Text style={styles.progress}>Question {currentQuestionIndex + 1}/20</Text>
         <Text style={styles.score}>Score: {score}</Text>
       </View>
-     
+      <Text style={styles.progress}>{questions[currentQuestionIndex].question}</Text>
       {renderGridButton(questions[currentQuestionIndex].answers)}
       
     </View>
